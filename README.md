@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Code structure
+
+src
+  ├── App.css
+  ├── App.js
+  ├── App.test.js
+  ├── common       ; common components
+  ├── components   ; business components
+  ├── index.css
+  ├── index.js
+  ├── logo.svg
+  ├── pages        ; page components
+  ├── services     ; business logic
+  └── util         ; utility functions
+
 ## Available Scripts
 
 In the project directory, you can run:
